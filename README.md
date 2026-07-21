@@ -2,24 +2,41 @@
 
 A curated collection of important AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
 
-## Scope
+## Contents
 
-This repository tracks papers at the intersection of AI/ML and physiological signal processing, including:
+| Section | Description |
+|---------|-------------|
+| [Survey](#survey) | Survey / review papers |
+| [Bench](#bench) | Benchmarks |
+| [Datasets](#datasets) | Datasets |
+| [ECG](#ecg) | Electrocardiography |
+| [EEG](#eeg) | Electroencephalography |
+| [PPG](#ppg) | Photoplethysmography |
+| [EMG](#emg) | Electromyography |
 
-- **Signal-specific modeling**: ECG, EEG, PPG, EMG, GSR, respiration, and other biosignal encoders
-- **Self-supervised & foundation models**: pretraining objectives, masked signal modeling, contrastive learning for biosignals
-- **Multimodal & cross-modal learning**: fusing physiological signals with clinical text, imaging, or other modalities
-- **Generative modeling**: signal synthesis, denoising, imputation, and cross-signal generation
-- **Time-series representation learning** applicable to physiological data
-- **Clinical & diagnostic applications**: arrhythmia detection, sleep staging, seizure detection, vital sign monitoring, and related tasks
+**Format:** `Paper Title (YYYY)` [paper](link), [code](link). Papers in each section are listed in reverse chronological order (newest first).
 
-## Organization
+# [Survey](#contents)
 
-Papers are grouped by topic/signal type, with links to the paper, code (when available), and a short note on why the work is relevant.
+- Foundation Models for Biosignals: A Survey (2025) [paper](https://doi.org/10.36227/techrxiv.175606236.62808131/v1), [code](https://github.com/guxiao0822/Awesome-Biosignal-Foundation-Model)
+
+# [Bench](#contents)
+
+# [Datasets](#contents)
+
+- CODE-II: A large-scale dataset for artificial intelligence in ECG analysis (2025) [paper](https://arxiv.org/abs/2511.15632), [code](https://github.com/antonior92/automatic-ecg-diagnosis)
+
+# [ECG](#contents)
+
+# [EEG](#contents)
+
+# [PPG](#contents)
+
+# [EMG](#contents)
 
 ## Contributing
 
-Suggestions and PRs are welcome — please include the paper title, a link (arXiv/venue), and a one-line summary of its relevance.
+Suggestions and PRs are welcome — follow the format: `Paper Title (YYYY)` [paper](link), [code](link), and keep each section in reverse chronological order.
 
 ## License
 
