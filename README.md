@@ -1,6 +1,6 @@
 # Physiology Signal Papers
 
-A curated collection of **important** AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
+A curated collection of ⭐ ***notable*** AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
 
 ## Contents
 
