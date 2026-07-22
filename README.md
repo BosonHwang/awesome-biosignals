@@ -1,5 +1,7 @@
 # Awesome Biosignals
 
+> 📌 **Paper link: click the model name.** 
+
 A curated collection of ⭐ ***notable*** AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
 
 ## Contents
@@ -15,7 +17,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 | [EMG](#emg) | Electromyography |
 | [Multimodal Signal](#multimodal-signal) | Multimodal signal fusion |
 
-**Format:** `ModelName • Paper Title (YYYY)` [paper](link), [code](link). Omit `ModelName •` if the paper has no named model/method. Papers in each section are listed in reverse chronological order (newest first).
+**Format:** `[ModelName](paper)` • `Paper Title (YYYY)`, [code](link). If there is no model name, use `Paper Title (YYYY)` [paper](link), [code](link). Papers in each section are listed in reverse chronological order (newest first).
 
 # [Survey](#contents)
 
@@ -27,17 +29,17 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [Datasets](#contents)
 
-- **EchoNext-Mini** • A Dataset and Baseline AI Model for Detecting Structural Heart Disease from Electrocardiograms (2026) [paper](https://doi.org/10.1056/AIdbp2500516), [code](https://github.com/PierreElias/IntroECG)
-- **CODE-II** • A large-scale dataset for artificial intelligence in ECG analysis (2025) [paper](https://arxiv.org/abs/2511.15632), [code](https://github.com/antonior92/automatic-ecg-diagnosis)
+- [EchoNext-Mini](https://doi.org/10.1056/AIdbp2500516) • A Dataset and Baseline AI Model for Detecting Structural Heart Disease from Electrocardiograms (2026), [code](https://github.com/PierreElias/IntroECG)
+- [CODE-II](https://arxiv.org/abs/2511.15632) • A large-scale dataset for artificial intelligence in ECG analysis (2025), [code](https://github.com/antonior92/automatic-ecg-diagnosis)
 
 # [ECG](#contents)
 
-- **LVCG** • Learning Cardiac Latent Representations in Vectorcardiogram Space (2026) [paper](https://arxiv.org/abs/2605.31249), [code](https://github.com/BosonHwang/LVCG)
-- **ECG-R1** • Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation (2026) [paper](https://arxiv.org/abs/2602.04279), [code](https://github.com/PKUDigitalHealth/ECG-R1)
-- **GEM** • Empowering MLLM for Grounded ECG Understanding with Time Series and Images (2025) [paper](https://arxiv.org/abs/2503.06073), [code](https://github.com/lanxiang1017/GEM)
-- **EchoNext** • Detecting structural heart disease from electrocardiograms using AI (2025) [paper](https://doi.org/10.1038/s41586-025-09227-0), [code](https://github.com/PierreElias/IntroECG)
-- **ECGFounder** • An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains (2024) [paper](https://arxiv.org/abs/2410.04133), [code](https://github.com/PKUDigitalHealth/ECGFounder)
-- **ST-MEM** • Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram (2024) [paper](https://arxiv.org/abs/2402.09450), [code](https://github.com/bakqui/ST-MEM)
+- [LVCG](https://arxiv.org/abs/2605.31249) • Learning Cardiac Latent Representations in Vectorcardiogram Space (2026), [code](https://github.com/BosonHwang/LVCG)
+- [ECG-R1](https://arxiv.org/abs/2602.04279) • Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation (2026), [code](https://github.com/PKUDigitalHealth/ECG-R1)
+- [GEM](https://arxiv.org/abs/2503.06073) • Empowering MLLM for Grounded ECG Understanding with Time Series and Images (2025), [code](https://github.com/lanxiang1017/GEM)
+- [EchoNext](https://doi.org/10.1038/s41586-025-09227-0) • Detecting structural heart disease from electrocardiograms using AI (2025), [code](https://github.com/PierreElias/IntroECG)
+- [ECGFounder](https://arxiv.org/abs/2410.04133) • An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains (2024), [code](https://github.com/PKUDigitalHealth/ECGFounder)
+- [ST-MEM](https://arxiv.org/abs/2402.09450) • Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram (2024), [code](https://github.com/bakqui/ST-MEM)
 
 # [EEG](#contents)
 
@@ -47,12 +49,12 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [Multimodal Signal](#contents)
 
-- **SleepFM** • A multimodal sleep foundation model for disease prediction (2026) [paper](https://doi.org/10.1038/s41591-025-04133-4), [code](https://github.com/zou-group/sleepfm-clinical)
-- **OpenTSLM** • Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (2025) [paper](https://doi.org/10.13140/RG.2.2.14827.60963), [code](https://github.com/OpenTSLM/OpenTSLM)
+- [SleepFM](https://doi.org/10.1038/s41591-025-04133-4) • A multimodal sleep foundation model for disease prediction (2026), [code](https://github.com/zou-group/sleepfm-clinical)
+- [OpenTSLM](https://doi.org/10.13140/RG.2.2.14827.60963) • Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (2025), [code](https://github.com/OpenTSLM/OpenTSLM)
 
 ## Contributing
 
-Suggestions and PRs are welcome — follow the format: `ModelName • Paper Title (YYYY)` [paper](link), [code](link) (omit `ModelName •` if none), and keep each section in reverse chronological order.
+Suggestions and PRs are welcome — follow the format: `[ModelName](paper)` • `Paper Title (YYYY)`, [code](link); if no model name, use `Paper Title (YYYY)` [paper](link), [code](link). Keep each section in reverse chronological order.
 
 ## License
 
