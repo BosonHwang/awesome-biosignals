@@ -43,6 +43,8 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [EEG](#contents)
 
+- What Do EEG Foundation Models Capture from Human Brain Signals? (2026) [paper](https://arxiv.org/abs/2605.11410)
+
 # [PPG](#contents)
 
 - [CAP](https://arxiv.org/abs/2606.15284) • Towards PPG Universal Representation Learning with Patient-level Supervision (2026), [code](https://github.com/gody123gody/CAP)
