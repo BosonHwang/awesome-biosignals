@@ -25,6 +25,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [Bench](#contents)
 
+- [OmniEEG-Bench](https://arxiv.org/abs/2606.00815) • A Standardized Evaluation Benchmark for EEG Foundation Models (2026), [code](https://github.com/ncclab-sustech/omni-eegbench)
 - Position: Evaluation of ECG Representations Must Be Fixed (2026) [paper](https://arxiv.org/abs/2602.17531), [code](https://github.com/zackeberger/ecg-fix)
 
 # [Datasets](#contents)
