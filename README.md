@@ -52,6 +52,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 # [Multimodal Signal](#contents)
 
 - [SleepFM](https://doi.org/10.1038/s41591-025-04133-4) • A multimodal sleep foundation model for disease prediction (2026), [code](https://github.com/zou-group/sleepfm-clinical)
+- [NeuroRVQ](https://arxiv.org/abs/2510.13068) • Multi-Scale Biosignal Tokenization for Generative Foundation Models (2025), [code](https://github.com/KonstantinosBarmpas/NeuroRVQ)
 - [OpenTSLM](https://doi.org/10.13140/RG.2.2.14827.60963) • Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (2025), [code](https://github.com/OpenTSLM/OpenTSLM)
 
 ## Contributing
