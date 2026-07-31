@@ -47,6 +47,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 # [EEG](#contents)
 
 - What Do EEG Foundation Models Capture from Human Brain Signals? (2026) [paper](https://arxiv.org/abs/2605.11410)
+- [EEG-DLite](https://arxiv.org/abs/2512.12210) • Dataset Distillation for Efficient Large EEG Model Training (2025), [code](https://github.com/t170815518/EEG-DLite)
 
 # [PPG](#contents)
 
