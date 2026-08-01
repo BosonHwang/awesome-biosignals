@@ -1,6 +1,6 @@
 # Awesome Biosignals
 
-> 📌 **Paper link: click the model name.** 
+> 📌 **Please only push truly influential papers in this field.**
 
 A curated collection of ⭐ ***notable*** AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
 
@@ -15,6 +15,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 | [EEG](#eeg) | Electroencephalography |
 | [PPG](#ppg) | Photoplethysmography |
 | [EMG](#emg) | Electromyography |
+| [Other Biosignals](#other-biosignals) | Other biosignals |
 | [Multimodal Signal](#multimodal-signal) | Multimodal signal fusion |
 
 **Format:** `[ModelName](paper)` • `Paper Title (YYYY)`, [code](link). If there is no model name, use `Paper Title (YYYY)` [paper](link), [code](link). Papers in each section are listed in reverse chronological order (newest first).
@@ -46,6 +47,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [EEG](#contents)
 
+- [Brain2Qwerty](https://facebookresearch.github.io/brain2qwerty/assets/brain2qwerty_v2.pdf) • Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings (2026), [code](https://github.com/facebookresearch/brain2qwerty)
 - What Do EEG Foundation Models Capture from Human Brain Signals? (2026) [paper](https://arxiv.org/abs/2605.11410)
 - [EEG-DLite](https://arxiv.org/abs/2512.12210) • Dataset Distillation for Efficient Large EEG Model Training (2025), [code](https://github.com/t170815518/EEG-DLite)
 
@@ -55,11 +57,14 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [EMG](#contents)
 
+# [Other Biosignals](#contents)
+
 # [Multimodal Signal](#contents)
 
 - [SleepFM](https://doi.org/10.1038/s41591-025-04133-4) • A multimodal sleep foundation model for disease prediction (2026), [code](https://github.com/zou-group/sleepfm-clinical)
 - [NeuroRVQ](https://arxiv.org/abs/2510.13068) • Multi-Scale Biosignal Tokenization for Generative Foundation Models (2025), [code](https://github.com/KonstantinosBarmpas/NeuroRVQ)
 - [OpenTSLM](https://doi.org/10.13140/RG.2.2.14827.60963) • Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data (2025), [code](https://github.com/OpenTSLM/OpenTSLM)
+- [SensorLM](https://openreview.net/forum?id=TrHeq0yFhv) • Learning the Language of Wearable Sensors (2025), [code](https://github.com/Google-Health/consumer-health-research/tree/main/sensorlm)
 
 ## Contributing
 
