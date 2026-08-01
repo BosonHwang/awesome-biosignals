@@ -38,6 +38,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [ECG](#contents)
 
+- An ECG biomarker for sudden cardiac death discovered with deep learning (2026) [paper](https://doi.org/10.1038/s41586-026-10674-6), [code](https://github.com/alexmschubert/ECG-SCD)
 - [LVCG](https://arxiv.org/abs/2605.31249) • Learning Cardiac Latent Representations in Vectorcardiogram Space (2026), [code](https://github.com/BosonHwang/LVCG)
 - [ECG-R1](https://arxiv.org/abs/2602.04279) • Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation (2026), [code](https://github.com/PKUDigitalHealth/ECG-R1)
 - [GEM](https://arxiv.org/abs/2503.06073) • Empowering MLLM for Grounded ECG Understanding with Time Series and Images (2025), [code](https://github.com/lanxiang1017/GEM)
