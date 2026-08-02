@@ -6,17 +6,15 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 ## Contents
 
-| Section | Description |
-|---------|-------------|
-| [Survey](#survey) | Survey / review papers |
-| [Bench](#bench) | Benchmarks |
-| [Datasets](#datasets) | Datasets |
-| [ECG](#ecg) | Electrocardiography |
-| [EEG](#eeg) | Electroencephalography |
-| [PPG](#ppg) | Photoplethysmography |
-| [EMG](#emg) | Electromyography |
-| [Other Biosignals](#other-biosignals) | Other biosignals |
-| [Multimodal Signal](#multimodal-signal) | Multimodal signal fusion |
+- [Survey](#survey) 📚
+- [Bench](#bench) 📏
+- [Datasets](#datasets) 🗂️
+- [ECG](#ecg) 🫀
+- [EEG](#eeg) 🧠
+- [PPG](#ppg) 🩸
+- [EMG](#emg) 💪
+- [Other](#other-biosignals) 🪧
+- [Multimodal](#multimodal-signal) 🔗
 
 **Format:** `[ModelName](paper)` • `Paper Title (YYYY)`, [code](link). If there is no model name, use `Paper Title (YYYY)` [paper](link), [code](link). Papers in each section are listed in reverse chronological order (newest first).
 
