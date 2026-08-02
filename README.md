@@ -75,3 +75,7 @@ Suggestions and PRs are welcome — follow the format: `[ModelName](paper)` • 
 ## License
 
 This repository is a reading list / bibliography; individual papers remain the property of their respective authors and venues.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BosonHwang/awesome-biosignals&type=Date)](https://star-history.com/#BosonHwang/awesome-biosignals&Date)
