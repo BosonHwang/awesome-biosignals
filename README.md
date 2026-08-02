@@ -48,6 +48,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [EEG](#contents)
 
+- [JET](https://arxiv.org/abs/2605.21280) • Let EEG Models Learn EEG (2026), [code](https://github.com/Y-Research-SBU/JET)
 - [Brain2Qwerty](https://facebookresearch.github.io/brain2qwerty/assets/brain2qwerty_v2.pdf) • Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings (2026), [code](https://github.com/facebookresearch/brain2qwerty)
 - What Do EEG Foundation Models Capture from Human Brain Signals? (2026) [paper](https://arxiv.org/abs/2605.11410)
 - [EEG-DLite](https://arxiv.org/abs/2512.12210) • Dataset Distillation for Efficient Large EEG Model Training (2025), [code](https://github.com/t170815518/EEG-DLite)
