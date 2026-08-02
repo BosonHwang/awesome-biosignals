@@ -78,4 +78,10 @@ This repository is a reading list / bibliography; individual papers remain the p
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BosonHwang/awesome-biosignals&type=Date)](https://www.star-history.com/?type=date&repos=BosonHwang%2Fawesome-biosignals)
+<a href="https://www.star-history.com/?repos=BosonHwang%2Fawesome-biosignals&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&theme=dark&legend=top-left&sealed_token=coFucbPzUjNZwxRQLx03-_EbHZxwbifygTTVRnnREi0nbFTsyD8LQPU4Krn60Q9UD1i9b-pxaZweHgOWgMvSwfcSR8oGng" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&legend=top-left&sealed_token=coFucbPzUjNZwxRQLx03-_EbHZxwbifygTTVRnnREi0nbFTsyD8LQPU4Krn60Q9UD1i9b-pxaZweHgOWgMvSwfcSR8oGng" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&legend=top-left&sealed_token=coFucbPzUjNZwxRQLx03-_EbHZxwbifygTTVRnnREi0nbFTsyD8LQPU4Krn60Q9UD1i9b-pxaZweHgOWgMvSwfcSR8oGng" />
+ </picture>
+</a>
