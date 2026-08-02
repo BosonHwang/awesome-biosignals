@@ -78,10 +78,10 @@ This repository is a reading list / bibliography; individual papers remain the p
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=BosonHwang%2Fawesome-biosignals&type=date&legend=top-left">
+<a href="https://www.star-history.com/?type=date&repos=BosonHwang%2Fawesome-biosignals">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&theme=dark&legend=top-left&sealed_token=coFucbPzUjNZwxRQLx03-_EbHZxwbifygTTVRnnREi0nbFTsyD8LQPU4Krn60Q9UD1i9b-pxaZweHgOWgMvSwfcSR8oGng" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&legend=top-left&sealed_token=coFucbPzUjNZwxRQLx03-_EbHZxwbifygTTVRnnREi0nbFTsyD8LQPU4Krn60Q9UD1i9b-pxaZweHgOWgMvSwfcSR8oGng" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&legend=top-left&sealed_token=coFucbPzUjNZwxRQLx03-_EbHZxwbifygTTVRnnREi0nbFTsyD8LQPU4Krn60Q9UD1i9b-pxaZweHgOWgMvSwfcSR8oGng" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&theme=dark&legend=top-left&sealed_token=WmmbsYYih2GjnbRH5Ugy6z5evvgzbVQ-FcHQoBagLznhu_8K_ndYBiILU6AB7rCfZGF3E2ESRA8k-k_XKmqhO6XBEw_XR92pgDTWE_8WxtVV28ErYwafM94bj6TruMxzJ9murUsFS-Im2ZVEANm06Gmhk98AbWJlkxeDs7Z2u1xMFdYWAR3H5bVqnvhS" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&legend=top-left&sealed_token=WmmbsYYih2GjnbRH5Ugy6z5evvgzbVQ-FcHQoBagLznhu_8K_ndYBiILU6AB7rCfZGF3E2ESRA8k-k_XKmqhO6XBEw_XR92pgDTWE_8WxtVV28ErYwafM94bj6TruMxzJ9murUsFS-Im2ZVEANm06Gmhk98AbWJlkxeDs7Z2u1xMFdYWAR3H5bVqnvhS" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BosonHwang/awesome-biosignals&type=date&legend=top-left&sealed_token=WmmbsYYih2GjnbRH5Ugy6z5evvgzbVQ-FcHQoBagLznhu_8K_ndYBiILU6AB7rCfZGF3E2ESRA8k-k_XKmqhO6XBEw_XR92pgDTWE_8WxtVV28ErYwafM94bj6TruMxzJ9murUsFS-Im2ZVEANm06Gmhk98AbWJlkxeDs7Z2u1xMFdYWAR3H5bVqnvhS" />
  </picture>
 </a>
