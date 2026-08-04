@@ -46,6 +46,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [EEG](#contents)
 
+- Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders (2026) [paper](https://arxiv.org/abs/2605.13930), [code](https://github.com/BrainCapture/mechanistic-interpretability-for-eeg-foundation-models)
 - [JET](https://arxiv.org/abs/2605.21280) • Let EEG Models Learn EEG (2026), [code](https://github.com/Y-Research-SBU/JET)
 - [BSR](https://openreview.net/forum?id=iCjSoADDPs) • Harnessing Spectrum Video for Subject-Level Few-Shot and Cross-Montage EEG Generalization (2026), [code](https://github.com/yanweifu-sii/BSR-VideoMAE)
 - [Brain2Qwerty](https://facebookresearch.github.io/brain2qwerty/assets/brain2qwerty_v2.pdf) • Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings (2026), [code](https://github.com/facebookresearch/brain2qwerty)
