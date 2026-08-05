@@ -20,6 +20,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [Survey](#contents)
 
+- Position: Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning with Foundation Models and Agentic LLMs (2026) [paper](https://doi.org/10.36227/techrxiv.177092226.67693184/v1)
 - Foundation Models for Biosignals: A Survey (2025) [paper](https://doi.org/10.36227/techrxiv.175606236.62808131/v1), [code](https://github.com/guxiao0822/Awesome-Biosignal-Foundation-Model)
 
 # [Bench](#contents)
