@@ -26,6 +26,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [Bench](#contents)
 
+- [BrainBench](https://arxiv.org/abs/2608.04156) • Benchmarking Large Language Models for Comprehensive EEG Understanding (2026)
 - [OmniEEG-Bench](https://arxiv.org/abs/2606.00815) • A Standardized Evaluation Benchmark for EEG Foundation Models (2026), [code](https://github.com/ncclab-sustech/omni-eegbench)
 - [NeuroAtlas](https://arxiv.org/abs/2605.14698) • Benchmarking Foundation Models for Clinical EEG and Brain-Computer Interfaces (2026)
 - Position: Evaluation of ECG Representations Must Be Fixed (2026) [paper](https://arxiv.org/abs/2602.17531), [code](https://github.com/zackeberger/ecg-fix)
