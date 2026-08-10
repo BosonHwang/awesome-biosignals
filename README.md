@@ -49,6 +49,7 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [EEG](#contents)
 
+- [ZUNA1.1](https://arxiv.org/abs/2607.27308) • A more flexible EEG foundation model for Denoising and Super-resolution (2026), [code](https://github.com/Zyphra/zuna)
 - Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders (2026) [paper](https://arxiv.org/abs/2605.13930), [code](https://github.com/BrainCapture/mechanistic-interpretability-for-eeg-foundation-models)
 - [JET](https://arxiv.org/abs/2605.21280) • Let EEG Models Learn EEG (2026), [code](https://github.com/Y-Research-SBU/JET)
 - [BSR](https://openreview.net/forum?id=iCjSoADDPs) • Harnessing Spectrum Video for Subject-Level Few-Shot and Cross-Montage EEG Generalization (2026), [code](https://github.com/yanweifu-sii/BSR-VideoMAE)
